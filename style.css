@@ -28,3 +28,8 @@ section {
         font-size: 3rem;
     }
 }
+
+footer {
+    color: red;
+    text-align: center;
+}
