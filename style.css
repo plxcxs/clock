@@ -23,7 +23,7 @@ section {
     border-radius: 90px;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 768px) {
     .show {
         font-size: 3rem;
     }
